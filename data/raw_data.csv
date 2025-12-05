@@ -1,0 +1,6 @@
+Metric,Value,Unit,Source_Proxy,Calibration_Factor
+GMMI_ShadowMismatch,3.12,Ratio,IIF Global Debt Monitor 2025 (NBFI Leverage),alpha_i*(1+mismatch/2)
+CDS_OIS_Inversion_Days,99.0,Days,Bloomberg Proxy,rho/sigma
+EWL_CR_TR_Ratio_Q4_2025,0.85,Ratio,X Corpus Sample (Why-Therefore),gamma/beta
+Historical_Case_Roman_476,204.0,EWI,PDF LGF_v12_5,H_LBH=0.20
+Historical_Case_2008_GFC,88.0,EWI,PDF LGF_v12_5,H_LBH=0.18
